@@ -68,9 +68,11 @@ Expected_out1 uses the first script as
 
 Expected_out2 uses 
 > `python get_ELgraph.py > out.graph.log'
+
 followed by 
+
 > `python ../../calc_Edist.py > out.dist.log'
 
-The ouotput files are the two distance matrix as csv files, and the pickeld and backup data for the second set of scripts.
+The output files are the two distance matrix as csv files, and the pickeld and backup data for the second set of scripts.
 
 
