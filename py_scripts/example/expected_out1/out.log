@@ -1,0 +1,203 @@
+Number of minima:  11
+Number of transition states:  11
+DiGraph with 10 nodes and 22 edges
+Completed shortest path calculation for minima  1  and  1
+Calculated  1  new distances this iteration, total distances found:  1
+Completed shortest path calculation for minima  1  and  2
+Calculated  1  new distances this iteration, total distances found:  2
+Completed shortest path calculation for minima  1  and  3
+Calculated  2  new distances this iteration, total distances found:  4
+Completed shortest path calculation for minima  1  and  4
+Calculated  3  new distances this iteration, total distances found:  7
+Completed shortest path calculation for minima  1  and  5
+Calculated  0  new distances this iteration, total distances found:  7
+Completed shortest path calculation for minima  1  and  6
+Calculated  7  new distances this iteration, total distances found:  14
+Completed shortest path calculation for minima  1  and  7
+Calculated  0  new distances this iteration, total distances found:  14
+Completed shortest path calculation for minima  1  and  8
+Calculated  3  new distances this iteration, total distances found:  17
+Completed shortest path calculation for minima  1  and  9
+Calculated  5  new distances this iteration, total distances found:  22
+Completed shortest path calculation for minima  1  and  10
+Calculated  4  new distances this iteration, total distances found:  26
+Completed shortest path calculation for minima  2  and  1
+Calculated  1  new distances this iteration, total distances found:  27
+Completed shortest path calculation for minima  2  and  2
+Calculated  1  new distances this iteration, total distances found:  28
+Completed shortest path calculation for minima  2  and  3
+Calculated  0  new distances this iteration, total distances found:  28
+Completed shortest path calculation for minima  2  and  4
+Calculated  2  new distances this iteration, total distances found:  30
+Completed shortest path calculation for minima  2  and  5
+Calculated  0  new distances this iteration, total distances found:  30
+Completed shortest path calculation for minima  2  and  6
+Calculated  6  new distances this iteration, total distances found:  36
+Completed shortest path calculation for minima  2  and  7
+Calculated  0  new distances this iteration, total distances found:  36
+Completed shortest path calculation for minima  2  and  8
+Calculated  0  new distances this iteration, total distances found:  36
+Completed shortest path calculation for minima  2  and  9
+Calculated  4  new distances this iteration, total distances found:  40
+Completed shortest path calculation for minima  2  and  10
+Calculated  0  new distances this iteration, total distances found:  40
+Completed shortest path calculation for minima  3  and  1
+Calculated  2  new distances this iteration, total distances found:  42
+Completed shortest path calculation for minima  3  and  2
+Calculated  0  new distances this iteration, total distances found:  42
+Completed shortest path calculation for minima  3  and  3
+Calculated  1  new distances this iteration, total distances found:  43
+Completed shortest path calculation for minima  3  and  4
+Calculated  3  new distances this iteration, total distances found:  46
+Completed shortest path calculation for minima  3  and  5
+Calculated  1  new distances this iteration, total distances found:  47
+Completed shortest path calculation for minima  3  and  6
+Calculated  0  new distances this iteration, total distances found:  47
+Completed shortest path calculation for minima  3  and  7
+Calculated  0  new distances this iteration, total distances found:  47
+Completed shortest path calculation for minima  3  and  8
+Calculated  0  new distances this iteration, total distances found:  47
+Completed shortest path calculation for minima  3  and  9
+Calculated  0  new distances this iteration, total distances found:  47
+Completed shortest path calculation for minima  3  and  10
+Calculated  0  new distances this iteration, total distances found:  47
+Completed shortest path calculation for minima  4  and  1
+Calculated  3  new distances this iteration, total distances found:  50
+Completed shortest path calculation for minima  4  and  2
+Calculated  2  new distances this iteration, total distances found:  52
+Completed shortest path calculation for minima  4  and  3
+Calculated  5  new distances this iteration, total distances found:  57
+Completed shortest path calculation for minima  4  and  4
+Calculated  1  new distances this iteration, total distances found:  58
+Completed shortest path calculation for minima  4  and  5
+Calculated  0  new distances this iteration, total distances found:  58
+Completed shortest path calculation for minima  4  and  6
+Calculated  0  new distances this iteration, total distances found:  58
+Completed shortest path calculation for minima  4  and  7
+Calculated  0  new distances this iteration, total distances found:  58
+Completed shortest path calculation for minima  4  and  8
+Calculated  0  new distances this iteration, total distances found:  58
+Completed shortest path calculation for minima  4  and  9
+Calculated  0  new distances this iteration, total distances found:  58
+Completed shortest path calculation for minima  4  and  10
+Calculated  2  new distances this iteration, total distances found:  60
+Completed shortest path calculation for minima  5  and  1
+Calculated  0  new distances this iteration, total distances found:  60
+Completed shortest path calculation for minima  5  and  2
+Calculated  0  new distances this iteration, total distances found:  60
+Completed shortest path calculation for minima  5  and  3
+Calculated  1  new distances this iteration, total distances found:  61
+Completed shortest path calculation for minima  5  and  4
+Calculated  0  new distances this iteration, total distances found:  61
+Completed shortest path calculation for minima  5  and  5
+Calculated  1  new distances this iteration, total distances found:  62
+Completed shortest path calculation for minima  5  and  6
+Calculated  0  new distances this iteration, total distances found:  62
+Completed shortest path calculation for minima  5  and  7
+Calculated  0  new distances this iteration, total distances found:  62
+Completed shortest path calculation for minima  5  and  8
+Calculated  1  new distances this iteration, total distances found:  63
+Completed shortest path calculation for minima  5  and  9
+Calculated  0  new distances this iteration, total distances found:  63
+Completed shortest path calculation for minima  5  and  10
+Calculated  1  new distances this iteration, total distances found:  64
+Completed shortest path calculation for minima  6  and  1
+Calculated  6  new distances this iteration, total distances found:  70
+Completed shortest path calculation for minima  6  and  2
+Calculated  5  new distances this iteration, total distances found:  75
+Completed shortest path calculation for minima  6  and  3
+Calculated  0  new distances this iteration, total distances found:  75
+Completed shortest path calculation for minima  6  and  4
+Calculated  0  new distances this iteration, total distances found:  75
+Completed shortest path calculation for minima  6  and  5
+Calculated  0  new distances this iteration, total distances found:  75
+Completed shortest path calculation for minima  6  and  6
+Calculated  1  new distances this iteration, total distances found:  76
+Completed shortest path calculation for minima  6  and  7
+Calculated  0  new distances this iteration, total distances found:  76
+Completed shortest path calculation for minima  6  and  8
+Calculated  0  new distances this iteration, total distances found:  76
+Completed shortest path calculation for minima  6  and  9
+Calculated  0  new distances this iteration, total distances found:  76
+Completed shortest path calculation for minima  6  and  10
+Calculated  2  new distances this iteration, total distances found:  78
+Completed shortest path calculation for minima  7  and  1
+Calculated  0  new distances this iteration, total distances found:  78
+Completed shortest path calculation for minima  7  and  2
+Calculated  0  new distances this iteration, total distances found:  78
+Completed shortest path calculation for minima  7  and  3
+Calculated  0  new distances this iteration, total distances found:  78
+Completed shortest path calculation for minima  7  and  4
+Calculated  0  new distances this iteration, total distances found:  78
+Completed shortest path calculation for minima  7  and  5
+Calculated  0  new distances this iteration, total distances found:  78
+Completed shortest path calculation for minima  7  and  6
+Calculated  0  new distances this iteration, total distances found:  78
+Completed shortest path calculation for minima  7  and  7
+Calculated  1  new distances this iteration, total distances found:  79
+Completed shortest path calculation for minima  7  and  8
+Calculated  0  new distances this iteration, total distances found:  79
+Completed shortest path calculation for minima  7  and  9
+Calculated  0  new distances this iteration, total distances found:  79
+Completed shortest path calculation for minima  7  and  10
+Calculated  0  new distances this iteration, total distances found:  79
+Completed shortest path calculation for minima  8  and  1
+Calculated  1  new distances this iteration, total distances found:  80
+Completed shortest path calculation for minima  8  and  2
+Calculated  0  new distances this iteration, total distances found:  80
+Completed shortest path calculation for minima  8  and  3
+Calculated  0  new distances this iteration, total distances found:  80
+Completed shortest path calculation for minima  8  and  4
+Calculated  0  new distances this iteration, total distances found:  80
+Completed shortest path calculation for minima  8  and  5
+Calculated  1  new distances this iteration, total distances found:  81
+Completed shortest path calculation for minima  8  and  6
+Calculated  0  new distances this iteration, total distances found:  81
+Completed shortest path calculation for minima  8  and  7
+Calculated  0  new distances this iteration, total distances found:  81
+Completed shortest path calculation for minima  8  and  8
+Calculated  1  new distances this iteration, total distances found:  82
+Completed shortest path calculation for minima  8  and  9
+Calculated  0  new distances this iteration, total distances found:  82
+Completed shortest path calculation for minima  8  and  10
+Calculated  0  new distances this iteration, total distances found:  82
+Completed shortest path calculation for minima  9  and  1
+Calculated  5  new distances this iteration, total distances found:  87
+Completed shortest path calculation for minima  9  and  2
+Calculated  6  new distances this iteration, total distances found:  93
+Completed shortest path calculation for minima  9  and  3
+Calculated  0  new distances this iteration, total distances found:  93
+Completed shortest path calculation for minima  9  and  4
+Calculated  0  new distances this iteration, total distances found:  93
+Completed shortest path calculation for minima  9  and  5
+Calculated  0  new distances this iteration, total distances found:  93
+Completed shortest path calculation for minima  9  and  6
+Calculated  0  new distances this iteration, total distances found:  93
+Completed shortest path calculation for minima  9  and  7
+Calculated  0  new distances this iteration, total distances found:  93
+Completed shortest path calculation for minima  9  and  8
+Calculated  0  new distances this iteration, total distances found:  93
+Completed shortest path calculation for minima  9  and  9
+Calculated  1  new distances this iteration, total distances found:  94
+Completed shortest path calculation for minima  9  and  10
+Calculated  0  new distances this iteration, total distances found:  94
+Completed shortest path calculation for minima  10  and  1
+Calculated  1  new distances this iteration, total distances found:  95
+Completed shortest path calculation for minima  10  and  2
+Calculated  0  new distances this iteration, total distances found:  95
+Completed shortest path calculation for minima  10  and  3
+Calculated  0  new distances this iteration, total distances found:  95
+Completed shortest path calculation for minima  10  and  4
+Calculated  2  new distances this iteration, total distances found:  97
+Completed shortest path calculation for minima  10  and  5
+Calculated  1  new distances this iteration, total distances found:  98
+Completed shortest path calculation for minima  10  and  6
+Calculated  1  new distances this iteration, total distances found:  99
+Completed shortest path calculation for minima  10  and  7
+Calculated  0  new distances this iteration, total distances found:  99
+Completed shortest path calculation for minima  10  and  8
+Calculated  0  new distances this iteration, total distances found:  99
+Completed shortest path calculation for minima  10  and  9
+Calculated  0  new distances this iteration, total distances found:  99
+Completed shortest path calculation for minima  10  and  10
+Calculated  1  new distances this iteration, total distances found:  100
