@@ -1,0 +1,38 @@
+  Parsed min.data and ts.data files
+  Found           11  minima and           11  transition states
+  
+  Created graph with           11  nodes and           22  edges
+  
+  Starting Dijkstra path searches from node            1
+  Completed Dijkstra calulations for this minimum
+  
+  Starting Dijkstra path searches from node            2
+  Completed Dijkstra calulations for this minimum
+  
+  Starting Dijkstra path searches from node            3
+  Completed Dijkstra calulations for this minimum
+  
+  Starting Dijkstra path searches from node            4
+  Completed Dijkstra calulations for this minimum
+  
+  Starting Dijkstra path searches from node            5
+  Completed Dijkstra calulations for this minimum
+  
+  Starting Dijkstra path searches from node            6
+  Completed Dijkstra calulations for this minimum
+  
+  Starting Dijkstra path searches from node            7
+  Completed Dijkstra calulations for this minimum
+  
+  Starting Dijkstra path searches from node            8
+  Completed Dijkstra calulations for this minimum
+  
+  Starting Dijkstra path searches from node            9
+  Completed Dijkstra calulations for this minimum
+  
+  Starting Dijkstra path searches from node           10
+  Completed Dijkstra calulations for this minimum
+  
+  Starting Dijkstra path searches from node           11
+  Completed Dijkstra calulations for this minimum
+  
